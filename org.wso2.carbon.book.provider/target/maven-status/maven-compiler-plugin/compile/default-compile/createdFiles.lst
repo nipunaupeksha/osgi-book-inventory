@@ -1,0 +1,4 @@
+org/wso2/carbon/book/provider/BookProvider.class
+org/wso2/carbon/book/provider/internal/BookProviderServiceComponent.class
+org/wso2/carbon/book/provider/model/Book.class
+org/wso2/carbon/book/provider/BookProviderImpl.class

@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1633853375756
+Build-Jdk: 1.8.0_291
+Built-By: nipunaupeksha
+Bundle-Description: A book shelf for carbon
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.carbon.book.reader
+Bundle-SymbolicName: org.wso2.carbon.book.reader
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wso2.carbon.book.reader;version="1.0.0.SNAPSHOT"
+Import-Package: org.osgi.service.component;version="[1.2.0,2.0.0)",org.w
+ so2.carbon.book.provider;version="1.0.0.SNAPSHOT",org.osgi.framework;ve
+ rsion="[1.7.0,2.0.0)"
+Service-Component: OSGI-INF/org.wso2.carbon.book.reader.internal.ReaderC
+ omponent.xml
+Tool: Bnd-2.1.0.20130426-122213
